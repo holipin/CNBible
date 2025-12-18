@@ -1,0 +1,10 @@
+{
+  "character": "救",
+  "pinyin": "jiù",
+  "meaning": "Save / Rescue",
+  "biblicalConnection": "「救」字左侧是「求」，右侧是「攵」（轻敲/敲门）。在福音中，凡哀求（求）主名的就必得救。而耶稣也说：「看哪，我站在门外叩门（攵）。」拯救是神的主动寻找与人的渴求回应的结合。",
+  "components": [
+    { "part": "求", "meaning": "渴求/呼救" },
+    { "part": "攵", "meaning": "敲击/催促" }
+  ]
+}

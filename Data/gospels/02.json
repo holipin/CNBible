@@ -1,0 +1,10 @@
+{
+  "character": "信",
+  "pinyin": "xìn",
+  "meaning": "Faith",
+  "biblicalConnection": "「信」字由「人」与「言」组成。在福音书中，信就是相信（人）神所说的话语（言）。正如亚伯拉罕信神，这就算为他的义。信不是盲目的感觉，而是基于对真理言语的确据和投靠。",
+  "components": [
+    { "part": "人", "meaning": "信靠者" },
+    { "part": "言", "meaning": "话语/真道" }
+  ]
+}

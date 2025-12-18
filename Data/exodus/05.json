@@ -1,0 +1,10 @@
+{
+  "character": "光",
+  "pinyin": "guāng",
+  "meaning": "Light",
+  "biblicalConnection": "在出埃及的路上，神在云柱和火柱中引领他们。火（光之上部）在人（儿，下部）的头上运行。光代表了神的同在，它驱散了埃及的黑暗，在旷野的黑夜里为百姓照亮前进的道路。",
+  "components": [
+    { "part": "火", "meaning": "火焰/神在其中" },
+    { "part": "儿", "meaning": "人/追随者" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "character": "赞",
+  "pinyin": "zàn",
+  "meaning": "Praise / Appreciate",
+  "biblicalConnection": "「赞」字繁体为「讚」，由「言」和「贊」组成。「贊」下部是「贝」（宝贝/价值），意为将最有价值的言语（言）献给至高者。在《诗篇》中，赞美是选民对神荣耀属性的高声回应。它不仅是声音的发出，更是内心深处对神圣价值的绝对认同与欢庆。",
+  "components": [
+    { "part": "言", "meaning": "言语/颂赞" },
+    { "part": "贝", "meaning": "财富/价值" }
+  ]
+}

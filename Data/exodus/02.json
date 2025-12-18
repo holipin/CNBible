@@ -1,0 +1,10 @@
+{
+  "character": "赎",
+  "pinyin": "shú",
+  "meaning": "Redeem",
+  "biblicalConnection": "「赎」左边是「贝」（古时的货币），右边是「卖」。在《出埃及记》中，以色列人如同被卖的奴隶，神以大能的手和代偿的价格将他们「买回」。这象征着救赎不仅是拯救，更是支付了极大代价的归还。",
+  "components": [
+    { "part": "贝", "meaning": "金钱/代价" },
+    { "part": "卖", "meaning": "出卖/交易" }
+  ]
+}

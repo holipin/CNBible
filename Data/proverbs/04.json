@@ -1,0 +1,10 @@
+{
+  "character": "训",
+  "pinyin": "xùn",
+  "meaning": "Instruction / Discipline",
+  "biblicalConnection": "「训」字由「言」和「川」组成。教训如同流动的河水（川），应当源源不断地灌溉生命。《箴言》强调要听从父亲的训诲，莫丢弃母亲的法则。智慧的话语应当像河流一样，顺服地流向受教者的心田，冲刷掉愚昧的沙石，带来生命的丰盛与秩序。",
+  "components": [
+    { "part": "言", "meaning": "言语/教诲" },
+    { "part": "川", "meaning": "河流/流动" }
+  ]
+}

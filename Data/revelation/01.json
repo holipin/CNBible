@@ -1,0 +1,10 @@
+{
+  "character": "启",
+  "pinyin": "qǐ",
+  "meaning": "Open / Reveal",
+  "biblicalConnection": "「启」字繁体「啟」。上方是「户」（门），下方是「口」。这意味着门被打开，言语流出。《启示录》就是天门打开，神将那必要快成的事昭示他的众仆人。它是揭开面纱，让隐藏的真理显明。",
+  "components": [
+    { "part": "户", "meaning": "门户" },
+    { "part": "口", "meaning": "宣告/启迪" }
+  ]
+}
