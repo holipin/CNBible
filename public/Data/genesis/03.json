@@ -1,0 +1,12 @@
+
+{
+  "character": "船",
+  "pinyin": "chuán",
+  "meaning": "Boat / Vessel",
+  "biblicalConnection": "这是一个非常著名的解法。「船」字由「舟」（小船）、「八」（数字八）和「口」（人）组成。这完美对应了《创世记》中诺亚方舟的故事：方舟（舟）中一共拯救了八（八）口（口）人。汉字的构造中巧妙地保留了洪水审判与救赎的古老记忆。",
+  "components": [
+    { "part": "舟", "meaning": "小船/载具" },
+    { "part": "八", "meaning": "数字八" },
+    { "part": "口", "meaning": "口/人" }
+  ]
+}

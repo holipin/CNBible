@@ -1,0 +1,10 @@
+{
+  "character": "赦",
+  "pinyin": "shè",
+  "meaning": "Forgive / Pardon",
+  "biblicalConnection": "「赦」字左侧为「赤」（红色/血），右侧为「攵」（击打/动作）。《利未记》强调：「若不流血，罪就不得赦免了。」赦免不是无代价的抹消，而是基于血（赤）的代偿行动。当审判的刑罚落在祭牲身上，罪人才得以从重担中释放。",
+  "components": [
+    { "part": "赤", "meaning": "红色/宝血" },
+    { "part": "攵", "meaning": "治理/施行" }
+  ]
+}

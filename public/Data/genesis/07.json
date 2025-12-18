@@ -1,0 +1,10 @@
+{
+  "character": "义",
+  "pinyin": "yì",
+  "meaning": "Righteousness",
+  "biblicalConnection": "繁体「義」是汉字神学的经典。上方是「羊」，下方是「我」。这意味着只有当替罪的羔羊（羊）盖在我的罪性（我）之上时，我在神眼中才是「义」的。这是基督代赎神学在汉字中跨越千年的见证。",
+  "components": [
+    { "part": "羊", "meaning": "羊羔/基督" },
+    { "part": "我", "meaning": "自我/人" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "character": "福",
+  "pinyin": "fú",
+  "meaning": "Blessing",
+  "biblicalConnection": "「福」字左侧是「示」（代表神），右侧是「一」、「口」、「田」。这揭示了人类最初的幸福：在伊甸园（田）里，神（示）与一个人（一、口）同在。这种人与神面对面交流的状态，就是圣经所定义的至高之福。",
+  "components": [
+    { "part": "示", "meaning": "神/昭示" },
+    { "part": "一", "meaning": "一个" },
+    { "part": "口", "meaning": "人/生命" },
+    { "part": "田", "meaning": "园子/产业" }
+  ]
+}

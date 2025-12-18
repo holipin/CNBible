@@ -1,0 +1,11 @@
+{
+  "character": "圣",
+  "pinyin": "shèng",
+  "meaning": "Holy",
+  "biblicalConnection": "繁体「聖」包含「耳」、「口」和「王」。真正的圣洁来自于听从（耳）并宣讲（口）至高王（王）的言语。在《出埃及记》中，神吩咐百姓要从万民中分别出来归神，这种「分别」就是圣洁的本质：聆听神的主权。",
+  "components": [
+    { "part": "耳", "meaning": "听从" },
+    { "part": "口", "meaning": "言说/见证" },
+    { "part": "壬", "meaning": "挺立/负责" }
+  ]
+}

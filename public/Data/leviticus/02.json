@@ -1,0 +1,11 @@
+{
+  "character": "祭",
+  "pinyin": "jì",
+  "meaning": "Sacrifice / Ritual",
+  "biblicalConnection": "「祭」字由「月」（肉）、「又」（手）和「示」（神/祭坛）组成。这幅字画生动地描绘了《利未记》中的场景：祭司用「手」拿着祭牲的「肉」，摆放在「祭坛」上献给神。它体现了代赎的过程：通过祭牲的死，使罪人能够重新与圣洁的神和好。",
+  "components": [
+    { "part": "月", "meaning": "肉体/祭牲" },
+    { "part": "又", "meaning": "手/行动" },
+    { "part": "示", "meaning": "祭坛/神谕" }
+  ]
+}

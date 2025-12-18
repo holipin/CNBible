@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="cnbible.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
