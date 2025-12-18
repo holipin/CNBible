@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/CNBible/', // Exactly like this
+      base: '/CNBible/', // For GitHub Pages deployment
       server: {
         port: 3000,
         host: '0.0.0.0',
